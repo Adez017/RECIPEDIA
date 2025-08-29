@@ -10,7 +10,7 @@ const Dessert = () => {
       id: 1,
       name: "Gulab Jamun",
       image: "/jamun.jpg",
-      route: "/recipe/gulub-jamun",
+      route: "/recipe/gulab-jamun",
     },
     {
       id: 2,
